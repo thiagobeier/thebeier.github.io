@@ -31,7 +31,7 @@ After delivering projects for the Brazilian National Engergy Agency where we pla
 
 * April/2018 - 🙌 **Graduation** It was finished! After two years with one summer break in between I graduated from college and continued working at the same company, a MSP (Managed Service Provider) until I found myself ready at least to try something new likewise I had before, to be a Microsoft Consultant again.
 
-* April/2019 - Currently: **Microsoft Consultant** I work for one of the largest privately-owned IT services and solutions companies in North America, with offices across the continent at the Azure Infrastructure and Modern Workplace/M365 Team. 
+* April/2019 - Currently: 🐱‍👤 **Microsoft Consultant** I work for one of the largest privately-owned IT services and solutions companies in North America, with offices across the continent at the Azure Infrastructure and Modern Workplace/M365 Team. 
 
 I continue to strive towards the goals I've set to myself based on what I've received from God keeping a clear path of what's tangible and great for myself and my family.
 
