@@ -6,7 +6,7 @@ subtitle: I recommend you to have a look at the following links
 
 ### Azure
 
-[https://azurecharts.com/highlights]https://azurecharts.com/highlights
+[https://azurecharts.com/highlights](https://azurecharts.com/highlights)
 
 [https://azureservices.io](https://azureservices.io)
 
