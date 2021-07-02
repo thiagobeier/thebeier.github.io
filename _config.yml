@@ -18,6 +18,7 @@ navbar-links:
   Blogs I follow: "blogsifollow"
   Must read: "mustread"
   Media : "media"
+  Scripts : "scripts"
   Resources:
   - My WP blog: "https://thiagobeier.wordpress.com"
   - Microsoft Learn: "http://aka.ms/learn/"
