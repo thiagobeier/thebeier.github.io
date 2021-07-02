@@ -15,6 +15,7 @@ author: Thiago Beier
 
 navbar-links:
   About Me: "aboutme"
+  Blogs I follow: "blogsifollow"
   Resources:
   - My WP blog: "https://thiagobeier.wordpress.com"
   - Microsoft Learn: "http://aka.ms/learn/"
