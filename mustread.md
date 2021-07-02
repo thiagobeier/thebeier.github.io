@@ -34,3 +34,14 @@ Content to be published soon.
 
 Content to be published soon.
 
+### Tools
+
+[Draw.io](https://app.diagrams.net) [link2](https://draw.io)
+
+[Microsoft Teams Dial Plan Creator Tool](https://www.ucdialplans.com)
+
+[Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
+
+### Learn to code
+
+[Code Org](https://code.org)
