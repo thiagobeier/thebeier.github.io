@@ -5,7 +5,7 @@ This post is being written on July 5^th^, 2021
 Have you replaced your Skype for Business Online PowerShell module by
 Teams PowerShell module already?
 
-![](https://github.com/thiagobeier/thebeier.github.io/blob/master/_posts/media/image1.png)
+![](https://raw.githubusercontent.com/thiagobeier/thebeier.github.io/master/_posts/media/image1.png)
 
 If you haven't, please check the following steps
 
