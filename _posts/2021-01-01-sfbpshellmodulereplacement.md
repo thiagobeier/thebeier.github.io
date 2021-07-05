@@ -5,7 +5,7 @@ This post is being written on July 5^th^, 2021
 Have you replaced your Skype for Business Online PowerShell module by
 Teams PowerShell module already?
 
-![](./media/image1.png){width="6.5in" height="6.506944444444445in"}
+![](./media/image1.png)
 
 If you haven't, please check the following steps
 
